@@ -96,7 +96,7 @@ main {
 .servicio {
 	text-align: justify;
 	border: var(--bordes) solid 1px;
-	padding: 8px;
+	padding: 20px;
 	background: rgb(238, 233, 233);
 }
 
