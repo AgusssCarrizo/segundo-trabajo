@@ -214,6 +214,31 @@ main {
 	text-decoration: none;
 }
 
-.contactanos ul li {
+.contact {
+	width: 80%;
+	display: flex;
+	justify-content: space-between;
+	border: #e6eaeb 2px solid;
+	padding: 20px;
+}
+
+.contactanos {
+	display: flex;
+	flex-direction: column;
+	gap: 20px;
+	margin: 20px 0px;
+}
+.contactanos ul {
 	list-style: none;
+	font-size: 15pxpx;
+	gap: 5px;
+	margin-top: 10px;
+	display: flex;
+	flex-direction: column;
+	gap: 15px;
+}
+
+.contactanos ul li {
+	display: flex;
+	gap: 10px;
 }
