@@ -57,4 +57,21 @@
 		margin: 100px 0px 120px 0px;
 		gap: 20px;
 	}
+	.works-1,
+	.works-2 {
+		width: 60%;
+	}
+	.contact {
+		display: flex;
+		flex-direction: column-reverse;
+	}
+	.contactanos {
+		display: flex;
+		flex-direction: column;
+		width: 100%;
+	}
+	.contactanos img {
+		height: 200px;
+		width: 200px;
+	}
 }
