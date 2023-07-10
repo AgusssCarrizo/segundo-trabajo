@@ -217,7 +217,7 @@ main {
    position: relative;
 }
 
-.works-2 button:hover,
+.works-2 .works-2 button:hover,
 .works-1 button:hover {
    transform: scale(1.1);
 }
@@ -233,7 +233,8 @@ main {
    text-decoration: none;
 }
 .works-2 .img-tr {
-   height: 50%;
+   width: 80%;
+   height: 70%;
    border-radius: 0.4rem;
    box-shadow: #474646 10px 4px 6px;
 }
