@@ -81,6 +81,8 @@
    .apartados {
       display: flex;
       flex-direction: column;
+      width: 80%;
+      height: 100%;
       margin: 100px 0px 120px 0px;
       gap: 20px;
    }
